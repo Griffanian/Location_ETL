@@ -1,0 +1,8 @@
+{
+    "paths": {
+        "db_path": "../output/supplier.db",
+        "schema_path": "schema.sql",
+        "loc_sheet_path": "../resources/Merchant Locations - London - Sheet1.csv",
+        "sup_path": "../resources/Supplier Strengths.xlsx"
+    }
+}
